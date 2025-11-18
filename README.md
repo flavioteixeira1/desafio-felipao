@@ -17,3 +17,5 @@ Se XP for entre 9.001 e 10.000 - Imortal
 
 Se XP for maior ou igual a 10.001 - Radiante
 
+No fim exibir a mensagem: O Herói de nome {nome} está no nível de {nível}
+
