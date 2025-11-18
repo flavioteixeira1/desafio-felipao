@@ -1,5 +1,11 @@
-Crie uma variavel para armazenar o nome e a quantidade de experiência (XP) de um herói, depois utilize a estrutura
-de decisão para apresentar alguma das mensagens abaixo :
+necessita nodejs instalado no sistema.
+
+utilização : clone o projeto e entre na pasta:
+git clone : https://github.com/flavioteixeira1/desafio-felipao
+cd desafio-felipao
+node src/index.js
+
+Criada uma variavel para armazenar o nome e a quantidade de experiência (XP) de um herói, depois conforme a estrutura de decisão apresentei a mensagem :
 
 Se XP for menor do que 1.000 - Ferro 
 
